@@ -1,37 +1,39 @@
 # Furkan Yılmaz
 
-**Software Developer**  
-Ümraniye / Istanbul  
+**Yazılım Geliştirici**  
+Ümraniye / İstanbul  
 📧 furknyilmaz@gmail.com  
 📞 +90 536 830 99 49  
 🌐 [LinkedIn](https://www.linkedin.com/in/furrknyilmaz/)  
 
 ---
 
-### Employment History
+### Çalışma Deneyimi
 
-- **11/2019 - Present:** Skroll - Software Developer  
-- **10/2018 - 11/2019:** Net Koruma - Cyber Security Analyst  
-- **06/2015 - 11/2015:** Anadolu Sigorta - IT Technician  
-- **11/2014 - 06/2015:** Anadolu Sigorta - IT Technician (Internship)  
-
----
-
-### Education
-
-- **Anadolu University** - Bachelor's Degree  
-- **Medipol University** - Vocational School  
+- **11/2019 - Devam:** Skroll - Yazılım Geliştirici  
+- **10/2018 - 11/2019:** Net Koruma - Siber Güvenlik Analisti  
+- **06/2015 - 11/2015:** Anadolu Sigorta - BT Teknisyeni  
+- **11/2014 - 06/2015:** Anadolu Sigorta - BT Teknisyeni (Staj)  
 
 ---
 
-### Skills
+### Eğitim
 
-#### Software Technologies
-- **Languages:** C#, Dart, HTML, CSS, JavaScript  
-- **Frameworks:** .NET, .NET Core, ReactJS, Next.js, Vue.js, Nuxt.js, Flutter  
+- **Anadolu Üniversitesi** - Lisans  
+- **Medipol Üniversitesi** - Yüksek Okul  
 
-#### Databases and Container Systems
+---
+
+### Yetkinlikler
+
+#### Yazılım Teknolojileri
+- **Diller:** C#, Dart, HTML, CSS, JavaScript  
+- **Frameworkler:** .NET, .NET Core, ReactJS, Next.js, Vue.js, Nuxt.js, Flutter  
+
+#### Veritabanları ve Container Sistemleri
 - MSSQL, PostgreSQL, Firebase, Docker, Docker Swarm, Portainer  
 
-#### DevOps and System Administration
+#### DevOps ve Sistem Yönetimi
 - Jenkins, Git, GitHub, GitLab, Cloudflare, Nginx, Ubuntu, Windows Server  
+
+---
