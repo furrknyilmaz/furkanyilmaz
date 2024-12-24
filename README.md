@@ -7,7 +7,7 @@
 
 ---
 
-## 01. Çalışma Deneyimi
+## Çalışma Deneyimi
 
 - **11/2019 - Devam:** Skroll - Yazılım Geliştirici  
 - **10/2018 - 11/2019:** Net Koruma - Siber Güvenlik Analisti  
@@ -16,21 +16,21 @@
 
 ---
 
-## 02. Eğitim
+## Eğitim
 
 - **Anadolu Üniversitesi** - Lisans  
 - **Medipol Üniversitesi** - Yüksek Okul  
 
 ---
 
-## 03. Yetkinlikler
+## Yetkinlikler
 
-### 1. Yazılım Teknolojileri
+### Yazılım Teknolojileri
 - **Diller:** C#, Dart, HTML, CSS, JavaScript  
 - **Frameworkler:** .NET, .NET Core, ReactJS, Next.js, Vue.js, Nuxt.js, Flutter  
 
-### 2. Veritabanları ve Container Sistemleri
+### Veritabanları ve Container Sistemleri
 - MSSQL, PostgreSQL, Firebase, Docker, Docker Swarm, Portainer  
 
-### 3. DevOps ve Sistem Yönetimi
+### DevOps ve Sistem Yönetimi
 - Jenkins, Git, GitHub, GitLab, Cloudflare, Nginx, Ubuntu, Windows Server  
