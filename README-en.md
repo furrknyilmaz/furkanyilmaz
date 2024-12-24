@@ -34,4 +34,6 @@
 - MSSQL, PostgreSQL, Firebase, Docker, Docker Swarm, Portainer  
 
 #### DevOps and System Administration
-- Jenkins, Git, GitHub, GitLab, Cloudflare, Nginx, Ubuntu, Windows Server  
+- Jenkins, Git, GitHub, GitLab, Cloudflare, Nginx, Ubuntu, Windows Server
+  
+---
