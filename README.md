@@ -1,14 +1,13 @@
 # Furkan Yılmaz
 
 **Yazılım Geliştirici**  
-Ümraniye / İstanbul  
+
 📧 furknyilmaz@gmail.com  
 📞 +90 536 830 99 49  
 
  https://github.com/furrknyilmaz  
  https://www.linkedin.com/in/furrknyilmaz  
  
-
 ---
 
 ### Çalışma Deneyimi
