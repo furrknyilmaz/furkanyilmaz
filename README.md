@@ -10,7 +10,7 @@
 
 ---
 
-### 01. Çalışma Deneyimi
+### Çalışma Deneyimi
 
 - **11/2019 - Devam:** Skroll - Yazılım Geliştirici  
 - **10/2018 - 11/2019:** Net Koruma - Siber Güvenlik Analisti  
@@ -19,14 +19,14 @@
 
 ---
 
-### 02. Eğitim
+### Eğitim
 
 - **Anadolu Üniversitesi** - Lisans  
 - **Medipol Üniversitesi** - Yüksek Okul  
 
 ---
 
-### 03. Yetkinlikler
+### Yetkinlikler
 
 #### Yazılım Teknolojileri
 - **Diller:** C#, Dart, HTML, CSS, JavaScript  
