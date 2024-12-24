@@ -1,7 +1,5 @@
 # Furkan Yılmaz
 
-## 🌐 Türkçe
-
 **Yazılım Geliştirici**  
 Ümraniye / İstanbul  
 📧 furknyilmaz@gmail.com  
