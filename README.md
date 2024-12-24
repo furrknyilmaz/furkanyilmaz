@@ -3,12 +3,12 @@
 **Yazılım Geliştirici**  
 Ümraniye / İstanbul  
 📧 furknyilmaz@gmail.com  
-📞 +90 536 830 99 49
-🌐 [LinkedIn Profilim](https://www.linkedin.com/in/furrknyilmaz/)
+📞 +90 536 830 99 49  
+🌐 [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/furrknyilmaz/)  
 
 ---
 
-## Çalışma Deneyimi
+## 01. Çalışma Deneyimi
 
 - **11/2019 - Devam:** Skroll - Yazılım Geliştirici  
 - **10/2018 - 11/2019:** Net Koruma - Siber Güvenlik Analisti  
@@ -17,21 +17,21 @@
 
 ---
 
-## Eğitim
+## 02. Eğitim
 
 - **Anadolu Üniversitesi** - Lisans  
 - **Medipol Üniversitesi** - Yüksek Okul  
 
 ---
 
-## Yetkinlikler
+## 03. Yetkinlikler
 
-### Yazılım Teknolojileri
+### 1. Yazılım Teknolojileri
 - **Diller:** C#, Dart, HTML, CSS, JavaScript  
 - **Frameworkler:** .NET, .NET Core, ReactJS, Next.js, Vue.js, Nuxt.js, Flutter  
 
-### Veritabanları ve Container Sistemleri
+### 2. Veritabanları ve Container Sistemleri
 - MSSQL, PostgreSQL, Firebase, Docker, Docker Swarm, Portainer  
 
-### DevOps ve Sistem Yönetimi
+### 3. DevOps ve Sistem Yönetimi
 - Jenkins, Git, GitHub, GitLab, Cloudflare, Nginx, Ubuntu, Windows Server  
