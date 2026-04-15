@@ -1,64 +1,108 @@
-# Furkan Yılmaz
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Furkan+Y%C4%B1lmaz+%F0%9F%91%8B;Backend+%26+Mobile+Developer;.NET+%7C+Flutter+%7C+Docker" alt="Typing SVG" />
+</h1>
 
-**Backend & Mobile Developer | [cite_start].NET & Flutter** [cite: 3]
-
-[cite_start]📧 furrknyilmaz@gmail.com [cite: 1]  
-[cite_start]📞 +90 536 830 9949 [cite: 1]  
-
----
-
-### Professional Summary
-
-[cite_start]I am a software developer specialized in backend development with C# and .NET technologies, while also building modern mobile applications using Flutter[cite: 4]. [cite_start]I focus on creating strong server-side infrastructures and scalable mobile solutions with an emphasis on user experience[cite: 5]. [cite_start]I have extensive experience managing end-to-end software processes, including container-based architectures and CI/CD pipelines[cite: 6, 7, 8].
+<p align="center">
+  <a href="mailto:furrknyilmaz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="tel:+905368309949"><img src="https://img.shields.io/badge/Phone-%2B90_536_830_9949-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
 
 ---
 
-### Work Experience
+## 🧑‍💻 About Me
 
-* [cite_start]**11/2019 - 08/2025:** Skroll - Senior Software Developer [cite: 11]
-* [cite_start]**10/2018 - 11/2019:** Net Koruma - Cyber Security Analyst [cite: 11]
-* [cite_start]**06/2015 - 11/2015:** Anadolu Sigorta - IT Technician [cite: 11]
-* [cite_start]**11/2014 - 06/2015:** Anadolu Sigorta - IT Technician (Intern) [cite: 11]
+I'm a software developer specialized in **backend development with C# and .NET**, and I also build modern mobile applications using **Flutter**. I focus on user experience — crafting strong server-side infrastructures and scalable mobile solutions.
 
----
-
-### Projects
-
-#### Corporate Backend & API
-* [cite_start]**Fiba Emeklilik:** Maintained Internet branch APIs, developed e-Agency platform services, and built payment infrastructure APIs[cite: 33, 34, 35, 37].
-* [cite_start]**HDI Sigorta & HDI Katılım Sigorta:** Led API development for new corporate websites[cite: 39, 40].
-* [cite_start]**Viennalife:** Supported development of internal projects for company employees[cite: 41, 42].
-
-#### Mobile Applications (Flutter)
-* [cite_start]**Gurulduyo:** Published on Google Play & App Store[cite: 44].
-* [cite_start]**Muhsin Bilir:** Published on Google Play & App Store[cite: 45].
-* [cite_start]**White Noise Napp:** Published on Google Play & App Store[cite: 46].
+- 🐳 Actively work with **Docker** and container-based architectures  
+- 🗄️ Experienced with **MSSQL, PostgreSQL, Firebase**  
+- ⚙️ Manage CI/CD pipelines with **Jenkins, GitLab & GitHub**  
+- 🔐 Ensure security & performance via **Cloudflare & Nginx**  
+- 🚀 Involved in **end-to-end software development** processes  
 
 ---
 
-### Education
+## 🛠️ Tech Stack
 
-* [cite_start]**Anadolu University** - Management Information Systems [cite: 12, 13]
-* [cite_start]**Medipol University** - Computer Programming [cite: 14, 15]
+### Languages & Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?style=flat-square&logo=nuxtdotjs&logoColor=00DC82)
+
+### Databases & Containers
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### DevOps & System Administration
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+
+### AI & Data
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ---
 
-### Skills
+## 💼 Work Experience
 
-#### Software Technologies
-* [cite_start]**Languages:** C#, Dart, HTML, CSS, JavaScript [cite: 18]
-* [cite_start]**Frameworks:** .NET, Flutter, ReactJS, Next.js, Vue.js, Nuxt.js [cite: 18]
-
-#### Databases & Containers
-* [cite_start]MSSQL, PostgreSQL, Firebase, Redis, Docker, Docker Swarm, Portainer [cite: 20]
-
-#### DevOps & System Administration
-* [cite_start]Jenkins, Git, GitHub, GitLab, Cloudflare, Nginx, Ubuntu, Windows Server [cite: 22]
-
-#### AI & Data Analytics
-* [cite_start]OpenAI API, Machine Learning, Data Processing [cite: 24]
+| Period | Role | Company |
+|--------|------|---------|
+| Nov 2019 – Aug 2025 | **Senior Software Developer** | Skroll |
+| Oct 2018 – Nov 2019 | **Cyber Security Analyst** | Net Koruma |
+| Jun 2015 – Nov 2015 | **IT Technician** | Anadolu Sigorta |
+| Nov 2014 – Jun 2015 | **IT Technician (Intern)** | Anadolu Sigorta |
 
 ---
 
-### Languages
-* [cite_start]**English:** B2 Level [cite: 26, 27]
+## 📦 Notable Projects
+
+### 🏦 Fiba Emeklilik
+- Maintained Internet branch APIs; fixed bugs and implemented new features
+- Developed services for offers, policies, and customer operations in the eAgency platform
+- Built a payment infrastructure API; managed collection and payment tracking processes
+
+### 🌐 HDI Sigorta & HDI Katılım Sigorta
+- Led API development for their new websites
+
+### 🏢 Viennalife
+- Supported the development of internal projects used by company employees
+
+### 📱 Mobile Applications (Flutter)
+| App | Platforms |
+|-----|-----------|
+| **Gurulduyo** | Google Play & App Store |
+| **Muhsin Bilir** | Google Play & App Store |
+| **White Noise Napp** | Google Play & App Store |
+
+---
+
+## 🎓 Education
+
+- 🎓 **Anadolu University** — Management Information Systems  
+- 🎓 **Medipol University** — Computer Programming  
+
+---
+
+## 🌍 Languages
+
+- 🇹🇷 **Turkish** — Native  
+- 🇬🇧 **English** — B2 Level  
+
+---
+
+<p align="center">
+  <i>"With experience in both backend and mobile, I play an active role in end-to-end software development processes."</i>
+</p>
